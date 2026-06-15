@@ -2,8 +2,7 @@
 
 A production-ready, full-stack three-tier web application for tracking Body Mass Index (BMI), Basal Metabolic Rate (BMR), and daily calorie requirements with 30-day trend visualization. Features fully automated CI/CD deployment using GitHub Actions.
 
-**🔗 Repository**: https://github.com/md-sarowar-alam/single-server-3tier-webapp-github-actions.git  
-**🌐 Live Demo**: http://44.245.64.25 (if deployed)
+
 
 ## 📋 Table of Contents
 
