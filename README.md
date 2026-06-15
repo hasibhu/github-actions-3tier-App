@@ -2,6 +2,7 @@
 
 A production-ready, full-stack three-tier web application for tracking Body Mass Index (BMI), Basal Metabolic Rate (BMR), and daily calorie requirements with 30-day trend visualization. Features fully automated CI/CD deployment using GitHub Actions.
 
+now 
 
 ## 📋 Table of Contents
 
